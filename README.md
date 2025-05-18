@@ -10,7 +10,7 @@ The goal of this project is to build a machine learning model that predicts the 
 
 ## Dataset
 
-The dataset used in this project is included in the `data/` folder as `match_data.csv`. It contains match features such as batting_team, bowling_team, current_score, balls_left, wickets_left, crr, last_five, and runs_y.
+The dataset used in this project is included as `t20_wc.csv`. It contains match features such as batting_team, bowling_team, current_score, balls_left, wickets_left, crr, last_five, and runs_y.
 
 Alternatively, you can download the dataset from [link if available].
 
