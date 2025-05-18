@@ -36,12 +36,19 @@ The dataset used in this project is included as `t20_wc.csv`. It contains match 
 ## Example Prediction
 
 Enter batting team: India
+
 Enter bowling team: Australia
+
 Enter current score: 130
+
 Enter balls left: 36
+
 Enter wickets left: 64
+
 Enter current run rate: 7.2
+
 Enter runs scored in last 5 overs: 45
+
 Predicted final score: 152
 
 
